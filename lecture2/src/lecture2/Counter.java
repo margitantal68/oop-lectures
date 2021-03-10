@@ -4,12 +4,12 @@ public class Counter {
     // Data/attribute
     private int value = 0;
 
-//    default constructor
+    //    default constructor
 //    no parameters
 //    empty block
     public Counter(){
     }
-//    constructor - special method
+    //    constructor - special method
 //    initilization of the object
 //    called only once, after memory allocation
 //    the name of the constructor = name of the class
