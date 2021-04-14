@@ -3,7 +3,7 @@ package lecture7;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class MainDrivable {
+public class MainDriveable {
     public static void main(String[] args) {
         ArrayList<Driveable> driveables = new ArrayList<>();
         driveables.add( new Bicycle());
